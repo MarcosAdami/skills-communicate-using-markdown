@@ -29,3 +29,4 @@ a<-setwd("C:/Users/")
 ## Adding a equation example ##
 ```math
  B >  \frac{1}{n} \sum_{i=1}^n a_{i} 
+```
