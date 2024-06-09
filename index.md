@@ -21,3 +21,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 # Setting a workspace
 a<-setwd("C:/Users/")
 ```
+### Creating a task list ###
+- [x] Turn on GitHub Pages
+- [x] Creating first page
+- [ ] Introducing myself
