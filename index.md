@@ -25,3 +25,7 @@ a<-setwd("C:/Users/")
 - [x] Turn on GitHub Pages
 - [x] Creating first page
 - [ ] Introducing myself
+
+## Adding a equation example ##
+```math
+ B >  \frac{1}{n} \sum_{i=1}^n a_{i} 
